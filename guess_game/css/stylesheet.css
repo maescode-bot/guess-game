@@ -1,0 +1,7 @@
+body *{ margin:0px; padding: 0px; }
+#submit{ width: 40%; margin-left:auto;margin-right:auto;margin-top: 1em;text-align:center;}
+#guessno{ width: 20%;margin:auto;text-align: center; }
+#guess h1{text-align: center;}
+header { width: 60%; margin: auto; 
+		}
+header div {padding: 2em;}
